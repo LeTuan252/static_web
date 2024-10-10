@@ -8,7 +8,7 @@ export const ContactScreen: React.FC = () => {
     <>
       <SectionTitle title="Liên hệ với chúng tôi" />
       <Contact />
-      <div> address="Số 99 Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội" </div>
+      <div> Số 99 Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội </div>
     </>
   )
 }
